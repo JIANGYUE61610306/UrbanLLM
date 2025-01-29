@@ -10,7 +10,7 @@ pip install -r requirements.txt
 Dataset for training, inference, and evaluation is released.
 
 ## Train Model
-python3 run UrbanLearning.py
+python3 run UrbanLearning.py with training_sample.txt dataset.
 
 ## Inference Results
 python3 run UrbanLLM_Inference.py GPT_Inference.py Llama_Vicuna_Inference.py
