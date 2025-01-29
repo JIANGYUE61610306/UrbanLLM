@@ -5,9 +5,9 @@
 ```bash
 pip install -r requirements.txt
 ```
-## Data and Model Zoo
+## Data
 
-We will release training dataset and model zoo after reviewing phase.
+Dataset for training, inference, and evaluation is released.
 
 ## Train Model
 python3 run UrbanLearning.py
